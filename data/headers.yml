@@ -1,0 +1,15 @@
+- item: 首页
+  icon: fa fa-home
+  link: "./"
+
+- item: 网站提交
+  icon: fa fa-file-upload
+  link: https://hw2yr3e64ow.feishu.cn/share/base/form/shrcnbV9YqtJJjvh7t8klNknnBh
+
+- item: 友情链接
+  icon: fab fa-staylinked
+  link: "#friendlink"
+
+- item: 关于导航
+  icon: fa fa-info-circle
+  link: "about.html"

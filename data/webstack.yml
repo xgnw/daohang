@@ -1208,6 +1208,10 @@
           description: 随机生成美国地址, 身份信息，信用卡信息，手机号码和其他基本信息。还会随机生成工作信息，财务信息，兴趣爱好等信息。
     - term: 站长工具
       links:
+        - title: 查米怪兽
+          logo: 查米怪兽.png
+          url: https://chami.gs/
+          description: 免费获取whois信息的网站，支持全球1000+种域名后缀及上述格式查询。
         - title: china站长之家
           logo: 站长之家.png
           url: https://tool.chinaz.com/
@@ -1270,6 +1274,14 @@
           url: https://chrome.zzzmh.cn/
           logo: zzzmh.png
           description: Chrome扩展插件商店_优质crx应用
+        - title: Crx搜搜
+          url: https://www.crxsoso.com
+          logo: Crx搜搜.png
+          description: 一个牛X的扩展和应用商店。
+        - title: crx4chrome
+          url: https://www.crx4chrome.com/
+          logo: crx4chrome.com.png
+          description: 英文chrome插件下载网。
 
 - taxonomy: 休闲娱乐
   icon: fas fa-film fa-lg

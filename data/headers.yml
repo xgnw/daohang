@@ -2,9 +2,9 @@
   icon: fa fa-home
   link: "./"
 
-- item: 网站提交
+- item: 博客
   icon: fa fa-file-upload
-  link: https://hw2yr3e64ow.feishu.cn/share/base/form/shrcnbV9YqtJJjvh7t8klNknnBh
+  link: "blog.jiandan.cf"
 
 - item: 友情链接
   icon: fab fa-staylinked

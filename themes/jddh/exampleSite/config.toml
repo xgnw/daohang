@@ -1,4 +1,4 @@
-baseURL               = "https://jiandan.ml/"
+baseURL               = "https://jiandan.cf/"
 languageCode          = "zh-CN"
 title                 = "简单导航"
 theme                 = "jddh"
@@ -13,7 +13,7 @@ publishDir            = "public"					# 站点静态文件保存目录
     description   = "简单导航,简单但实用的导航, 导航,网址导航, 上网导航"
     upload        = "https://hw2yr3e64ow.feishu.cn/share/base/form/shrcnbV9YqtJJjvh7t8klNknnBh"  # 左侧导航栏的"网站提交"
     about         = "about/index.html"	# 左侧导航栏的"关于导航"页面(./about)
-    repository    = "https://github.com/xgnw/jddh"  
+    repository    = "https://github.com/babiwawa"  
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "简单导航"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = true					# 默认展开左侧边导航栏
@@ -45,4 +45,4 @@ publishDir            = "public"					# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：1223112302@qq.com <br/>&copy; 2021 - {year} By [简单导航](https://www.jiandan.ml) | Theme By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)<br/> '
+    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：1223112302@qq.com <br/>&copy; 2021 - {year} By [简单导航](https://www.jiandan.cf) | Theme By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)<br/> '

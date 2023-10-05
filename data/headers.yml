@@ -4,7 +4,7 @@
 
 - item: 博客
   icon: fa fa-file-upload
-  link: "blog.jiandan.cf"
+  link: https://blog.jiandan.cf
 
 - item: 友情链接
   icon: fab fa-staylinked

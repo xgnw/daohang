@@ -1,0 +1,15 @@
+- item: 首页
+  icon: fa fa-home
+  link: "./"
+
+- item: 博客
+  icon: fas fa-blog
+  link: "https://www.xvtx.us.kg"
+
+- item: 友情链接
+  icon: fab fa-staylinked
+  link: "#friendlink"
+
+- item: 关于导航
+  icon: fa fa-info-circle
+  link: "about.html"
